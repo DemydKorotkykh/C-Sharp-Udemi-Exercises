@@ -1,0 +1,15 @@
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/bin/Debug/net6.0/C# Basics
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/bin/Debug/net6.0/C# Basics.deps.json
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/bin/Debug/net6.0/C# Basics.runtimeconfig.json
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/bin/Debug/net6.0/C# Basics.dll
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/bin/Debug/net6.0/C# Basics.pdb
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.csproj.AssemblyReference.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.AssemblyInfoInputs.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.AssemblyInfo.cs
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.csproj.CoreCompileInputs.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.dll
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/refint/C# Basics.dll
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.pdb
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/C# Basics.genruntimeconfig.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex1_1/obj/Debug/net6.0/ref/C# Basics.dll
