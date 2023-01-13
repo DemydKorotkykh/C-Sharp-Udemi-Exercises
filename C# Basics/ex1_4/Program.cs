@@ -7,12 +7,10 @@ internal class Program
         
         int limit = 0;
         int car = 0;
-        int count = 0;
             Console.WriteLine("Enter the speed limit: ");
             limit = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the speed of a car: ");
             car = Convert.ToInt32(Console.ReadLine());
-            count = car - limit;
         if (limit > car)
         {
             Console.WriteLine("Ok");
@@ -20,14 +18,13 @@ internal class Program
         }
         else
         {
-            if( count >= 60)
+            if( (car - limit) >= 60)
             {
                 Console.WriteLine("License Suspended");
             }
             else
             {
-                count = count / 5;
-                Console.WriteLine("{0} demerit points", count);
+                Console.WriteLine( (car - limit)/5 + " demerit points");
             }
         }   
 
