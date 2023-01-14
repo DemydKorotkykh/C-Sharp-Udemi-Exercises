@@ -4,8 +4,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-
-        //int input;
         int count = 0;
         int count2 = 0;
         while (true)
