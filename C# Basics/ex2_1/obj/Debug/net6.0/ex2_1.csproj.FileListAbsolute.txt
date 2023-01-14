@@ -1,0 +1,15 @@
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.csproj.AssemblyReference.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.AssemblyInfoInputs.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.AssemblyInfo.cs
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.csproj.CoreCompileInputs.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/bin/Debug/net6.0/ex2_1
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/bin/Debug/net6.0/ex2_1.deps.json
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/bin/Debug/net6.0/ex2_1.runtimeconfig.json
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/bin/Debug/net6.0/ex2_1.dll
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/bin/Debug/net6.0/ex2_1.pdb
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.dll
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/refint/ex2_1.dll
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.pdb
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ex2_1.genruntimeconfig.cache
+/Users/demydkorotkykh/Programming/C# Udemy courses /C-Sharp-Udemi-Exercises/C# Basics/ex2_1/obj/Debug/net6.0/ref/ex2_1.dll
